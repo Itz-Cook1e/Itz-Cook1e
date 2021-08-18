@@ -1,16 +1,15 @@
-### Hi there 👋
+Heyo!
 
-<!--
-**Itz-Cook1e/Itz-Cook1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I see you want to see my skillzzz 🐍
+Well, check them out below!
 
-Here are some ideas to get you started:
+[See my stats](https://github-readme-stats.vercel.app/api?username=Itz-Cook1e&count_private=true&show_icons=true&theme=midnight-purple)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Only Python? Wack.](https://github-readme-stats.vercel.app/api/top-langs/?username=ExaInsanity&theme=midnight-purple&langs_count=10&layout=compact)
+
+Im still only in high school so I am still learning! Give me time!
+
+**Contact Me:**
+Discord: ItzCook1e#5660
+StackOverflow: https://stackoverflow.com/users/13796869/itzcook1e
+Email: Asherpflueger@outlook.com
