@@ -1,4 +1,4 @@
-### ItzCook1e - Wanna Be Python Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### ItzCook1e - Wanna be python developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## About me:
 - 🔭 I’m currently working on - A Minecraft server (side hustle)
 - 🌱 I’m currently learning - Python (college classes)
