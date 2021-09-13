@@ -1,30 +1,16 @@
-### Heyo! I am Asher - aka [ItzCook1e](https://linktr.ee/ItzCook1e)
-
-I see you want to see my skillzzz [🐍](https://www.python.org/)
-
-Well, check them out below!
-
+### Hi, I'm Anonymous <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
+## Your short description
+- 🔭 I’m currently working on - A Minecraft server (side hustle)
+- 🌱 I’m currently learning - Python (college classes)
+- 👯 I’m looking to collaborate with - Anyone (hmu, lets collab)
+- 💬 Ask me about - Life. I will gladly talk with ya!
+- 🥅 My Goals - Graduate HS with a AA
+- ⚡ Fun fact - You need to drink water to survive. Stay hydrated!
+<!-- ❔❔❔❔ means username in below README.md -->
+<!-- Also feel free to update second URL to any URL -->
 ![See my stats!](https://github-readme-stats.vercel.app/api?username=Itz-Cook1e&count_private=true&show_icons=true&theme=midnight-purple)
-
-![Only Python? Wack.](https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Cook1e&theme=midnight-purple&langs_count=10&layout=compact)
-
-
-**Notes:**
-
-Education: I am still in high school. Give me some [time](https://www.businessinsider.com/median-tech-employee-age-chart-2017-8?op=1)! Jeez.
-
-Dream Job: Imma let you guess... A developer! 
-
-Main Language: English, but I like Python as well.
-
-First Project: A Discord bot named Breeze. He was my best buddy. Sadly, he is no longer with us.
-![image](https://user-images.githubusercontent.com/63994137/129819791-fab252fc-39ea-445b-9e27-7a6b1d649f71.png)
-
-
-**Contact Me:**
-
-Discord: ItzCook1e#5660
-
-StackOverflow: https://stackoverflow.com/users/13796869/itzcook1e
-
+## Connect with me:
 Email: Asherpflueger@outlook.com
+Discord: ItzCook1e#5660
+Other: Just ask!
